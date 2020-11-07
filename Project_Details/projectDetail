@@ -1,0 +1,114 @@
+Pending:-
+
+
+
+Shopikuchbhi:-
+
+Docs Url
+https://documenter.getpostman.com/view/10478663/SzKTxf8C
+
+getTracking
+http://172.105.50.222:8080/admin/api/mob/v1/ptmSimilarUser/getTracking/ORD-1000000063
+
+http://172.105.50.222:8080
+
+http://172.105.50.222:8080/admin/api/mob/v1/ptmSimilarUser/trackOrderFullDetails/1605120275845
+
+
+http://docs.pickrr.com/#api-Tracking-Track_Order
+
+Pending APi:-
+
+Ratting Review List APi
+"{{baseUrl}}/getCommentsAndReviewsListByCustomerId/
+cf066ec1-92bb-4c1c-a423-9aea402538e5"
+
+
+
+
+
+Notification
+
+
+// const data = {
+//   "to": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJBbnVzaGthLnNhaW5AYnJzb2Z0ZWNoLm9yZyIsImlhdCI6MTU5MDY2MzgxMiwiZXhwIjoxNTkwNzUwMjEyfQ.tfH2V_97dTM4OQWP28JdFMOQGHS7aw1xSIcarYmiE3LwL6b_Rtj0cB91Y8JkciryOU6rIEhNMtI7WQrcQmKFzA",
+//   "collapse_key": "type_a",
+//   "notification": {
+
+//     "notification_data": {
+//       "type": "type_order_req",
+//       "title": "BrFood Delivery noti",
+//       "body": "Order preparing",
+//       "priority": "high",
+
+//     }
+//   },
+//   "data": {
+//     "type": "type_order_req",
+
+//     "title": "BrFood Delivery",
+//     "body": "Order preparing",
+//     "priority": "high",
+//     "channelId": "my_default_channel",
+//     "notification_data": {
+//       "type": "type_order_req",
+//       "title": "BrFood Delivery",
+//       "body": "Order preparing",
+//       "priority": "high",
+//     }
+//   }
+// }
+
+
+// {"to":"fluiwYuUQK-NKAVRA1WH4X:APA91bHCnYdgIj_5QIyvXyLhluooPZkvp4yrlCS2oswOEjaAN9A_KUoPxHVOb4yamDViUlYic0aEcgwXugXLFuw5vH6HCpTbJmy2Ju6sUyMxfpTZfjWk52gXMyJhjKzDz8JQf-TYuWlf",
+// "notification":
+// {"type":"Order_request","title":"Hello","body":"Mukesh swami","priority":"higher","channelId":"","notification_data":
+// {"type":"Order_request","title":"Hello",
+// "body":"Mukesh swami","priority":"higher"}}
+// ,"data":{"type":"Order_request","title":"Hello","body":"Mukesh swami","priority":"higher","channelId":"","notification_data":
+// {"type":"Order_request","title":"Hello","body":"Mukesh swami",
+// "priority":"higher"}}}
+
+
+// {"to":"fluiwYuUQK-NKAVRA1WH4X:APA91bHCnYdgIj_5QIyvXyLhluooPZkvp4yrlCS2oswOEjaAN9A_KUoPxHVOb4yamDViUlYic0aEcgwXugXLFuw5vH6HCpTbJmy2Ju6sUyMxfpTZfjWk52gXMyJhjKzDz8JQf-TYuWlf","notification":{"type":"Order_request tt","title":"Hello","body":"noti Mukesh swami","priority":"higher","channelId":"",
+// "notification_data":{"type":"Order_request","title":"Hello","body":"Mukesh swami","priority":"higher"}},"data":{"type":"Order_requestxxfxx","title":"Hello","body":"data Mukesh swami","priority":"higher","channelId":"","notification_data":{"type":"Order_request cch","title":"Hello","body":"Mukesh swami","priority":"higher"}}}
+
+
+
+// {"to":"eWBn_MauSnKBBZ2f4B45cz:APA91bFMNaF3EuigUCNMpKuKizGF0A06Ks2BRBs2ka5AKcIqEiCdFCMslvbpnnAlun6Hnavp_kcr_pSeNHYpqpx1frFE5Dem6ZwAn-VbaknEdTFAzJVDe0hDFqzat4bJ8Merxie2n1Tf",
+// "notification":
+// {"notification_data":
+// {"type":"Order_request","title":"Hello",
+// "body":"Mukesh swami","priority":"higher"}}
+// ,"data":{"notification_data":
+// {"type":"Order_request","title":"Hello","body":"Mukesh swami",
+// "priority":"higher","picture": "https://files.allaboutbirds.net/wp-content/uploads/2015/06/prow-featured.jpg"
+// }}}
+
+//"type":"Order_request","title":"Hello","body":"Mukesh swami","priority":"higher","channelId":"",
+//"type":"Order_request","title":"Hello","body":"Mukesh swami","priority":"higher","channelId":"",
+
+
+
+// {"to":"dcD4Yq0wSUOWZF08Y1HMOP:APA91bFZppsSVQMhUPxZuvMDze54pcuk7svmgH4-vmODN_jqfjtrsM61deyZezlwYzMfbVmKtnnZnPNTFrVmDBPOmpEAeAH1a2N7RPBBPewxnlQyAEOINBs9XA7juGMyVlhMja4YeBzF",
+// "notification":
+// {"notification_data":
+// {"type":"Order_request","title":"Hello",
+// "body":"Mukesh swami","priority":"higher"}},"data":{"type":"Order_request","title":"Hello","body":"Mukesh swami","priority":"higher","channelId":"","notification_data":
+// {"type":"Order_request","title":"Hello","body":"Mukesh swami",
+// "priority":"higher",
+// }}}
+
+
+// const data=
+//   {"to":"eWBn_MauSnKBBZ2f4B45cz:APA91bFMNaF3EuigUCNMpKuKizGF0A06Ks2BRBs2ka5AKcIqEiCdFCMslvbpnnAlun6Hnavp_kcr_pSeNHYpqpx1frFE5Dem6ZwAn-VbaknEdTFAzJVDe0hDFqzat4bJ8Merxie2n1Tf",
+//   "notification":{"type":"Order_request","title":"Hello","body":"notiMukesh swami","priority":"higher","channelId":"",
+// "notification_data":{"type":"Order_request","title":"Hello","body":"Mukesh swami","priority":"higher"}},
+// "data":{"type":"Order_request",
+// "title":"Hello",
+// "body":"data Mukesh swami",
+// "priority":"higher",
+// "channelId":"",
+//  "picture":"https://files.allaboutbirds.net/wp-content/uploads/2015/06/prow-featured.jpg",
+//  "notification_data":{"type":"Order_request","title":"Hello","body":"Mukesh swami","priority":"higher"}}}
+

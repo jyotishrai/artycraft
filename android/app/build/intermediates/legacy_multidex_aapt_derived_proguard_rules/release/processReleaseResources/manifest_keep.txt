@@ -1,0 +1,4 @@
+# Referenced at /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:53
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:53
+-keep class com.artycrafts.MainApplication { <init>(); }

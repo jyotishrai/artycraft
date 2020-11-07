@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>931235729058-ksn22j89uj3n5tsv3f2lkptgq7q41qrg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.931235729058-ksn22j89uj3n5tsv3f2lkptgq7q41qrg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIRwXymlw1YToNRPYqhkYIYFSj50YqJqo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>931235729058</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shopikuchbhi</string>
+	<key>PROJECT_ID</key>
+	<string>shopikuchbhi-7db01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shopikuchbhi-7db01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:931235729058:ios:072b7651d72c3695b911fb</string>
+	<key>DATABASE_URL</key>
+	<string>https://shopikuchbhi-7db01.firebaseio.com</string>
+</dict>
+</plist>

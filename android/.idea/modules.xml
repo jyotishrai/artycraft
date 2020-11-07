@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Artycrafts.iml" filepath="$PROJECT_DIR$/.idea/modules/Artycrafts.iml" group="Artycrafts" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Artycrafts/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1699290929/react-native-android-location-enabler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1699290929/react-native-android-location-enabler.iml" group="Artycrafts/react-native-android-location-enabler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/250670503/react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/250670503/react-native-community_art.iml" group="Artycrafts/react-native-community_art" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-629712018/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-629712018/react-native-community_async-storage.iml" group="Artycrafts/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1799796150/react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1799796150/react-native-community_geolocation.iml" group="Artycrafts/react-native-community_geolocation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1115582735/react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/1115582735/react-native-community_netinfo.iml" group="Artycrafts/react-native-community_netinfo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-387986357/react-native-device-info.iml" filepath="$PROJECT_DIR$/.idea/modules/-387986357/react-native-device-info.iml" group="Artycrafts/react-native-device-info" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1381854500/react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/1381854500/react-native-fast-image.iml" group="Artycrafts/react-native-fast-image" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-303697105/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-303697105/react-native-firebase_app.iml" group="Artycrafts/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1571600358/react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1571600358/react-native-firebase_auth.iml" group="Artycrafts/react-native-firebase_auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1792926354/react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/1792926354/react-native-firebase_messaging.iml" group="Artycrafts/react-native-firebase_messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1990981300/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1990981300/react-native-gesture-handler.iml" group="Artycrafts/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2027826712/react-native-i18n.iml" filepath="$PROJECT_DIR$/.idea/modules/2027826712/react-native-i18n.iml" group="Artycrafts/react-native-i18n" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-157190401/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-157190401/react-native-image-crop-picker.iml" group="Artycrafts/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1878489540/react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/1878489540/react-native-push-notification.iml" group="Artycrafts/react-native-push-notification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-950142572/react-native-razorpay.iml" filepath="$PROJECT_DIR$/.idea/modules/-950142572/react-native-razorpay.iml" group="Artycrafts/react-native-razorpay" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1303710384/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1303710384/react-native-reanimated.iml" group="Artycrafts/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1709355763/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1709355763/react-native-screens.iml" group="Artycrafts/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-337939958/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-337939958/react-native-vector-icons.iml" group="Artycrafts/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1763610239/react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/-1763610239/react-native-video.iml" group="Artycrafts/react-native-video" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1844554111/react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1844554111/react-native-webview.iml" group="Artycrafts/react-native-webview" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783599439046",
+    "firebase_url": "https://artycraftsessentials-3d11d.firebaseio.com",
+    "project_id": "artycraftsessentials-3d11d",
+    "storage_bucket": "artycraftsessentials-3d11d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783599439046:android:4b58f177f152d0e01d5bc7",
+        "android_client_info": {
+          "package_name": "com.artycrafts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783599439046-jah9etn8kqs302olsoldksq7u84uoq62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artycrafts",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "783599439046-dpkut6r65mtpktpdopja5bga8vctnpcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJUgTO2Yh-xWnS5Wr2dhRgp1eGBYs7pZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783599439046-dpkut6r65mtpktpdopja5bga8vctnpcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

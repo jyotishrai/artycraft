@@ -1,0 +1,7 @@
+#Tue Oct 06 12:48:39 IST 2020
+base.0=/Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/build/intermediates/transforms/dexMerger/release/0

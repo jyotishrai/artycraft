@@ -1,0 +1,1056 @@
+-- Merging decision tree log ---
+permission#com.artycrafts.permission.C2D_MESSAGE
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:20:5-22:47
+	android:protectionLevel
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:22:9-44
+	android:name
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:21:9-63
+uses-permission#com.artycrafts.permission.C2D_MESSAGE
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:23:5-79
+	android:name
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:23:22-76
+manifest
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:1-93:12
+MERGED from [hermes-release.aar] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/58644ea479304475ecf4d8656418cf39/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-push-notification] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-razorpay] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-android-location-enabler] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fast-image] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
+MERGED from [:react-native-webview] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-vector-icons] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_art] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/art/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_async-storage] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_geolocation] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-firebase_auth] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-45:12
+MERGED from [:react-native-firebase_app] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-i18n] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-i18n/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-8:12
+MERGED from [:react-native-reanimated] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7cf1866045ab2b8d2885cad1c981cadd/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c567138dc6f703dc6a66fc177352813/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0b33c00a24c4598173c6d768d7a520ca/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d96ad40e770ceef13c67344856fcde50/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b2d06933f630a55c3195eda9c66463df/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-core:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/a5d983a4c43510f05a42dd58383771c5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/f2653e4efff8584188ec18592c686e84/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ca82e2204c79863a550965d0d4db46a1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/8cbdd19088d5272c1362d33bdcd8a090/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da920e85754b553bdc93cc792213a328/AndroidManifest.xml:2:1-9:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:2:1-52:12
+MERGED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:17:1-45:12
+MERGED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7c110fc296c898059c7886bbe4158af8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/479296412a4e5cc52648499ab43d962d/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/fad543d6821465ffb88136084401dfe1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cd2a98e4d78b0e5ee71903526b859515/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/38bc41ab3292a67db69133d80cfe3864/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/424cba814ee963ad9fbde1b2742314e7/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/25c6415b3dfca4ed3487e88ace478a22/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/49b31adff39917cf40004be708ec529a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c24e504aedf3d37f1cc4e0fbdf5e02e0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c06eab56274611771ebcbdf0414efe4b/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/03bffa21527edbaf703fe7dd904e34c3/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/204c950dfc9cbbaafc14d6ab0e0e5bd1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/043403675b7bb8ff898382a1255d7a17/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/602b09a5c5e1228df3664bfaaca6881c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/93b4e1703e7d8048e69f8ae22f31290a/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9ac32a45f79dcfe00a56ed178a6b8506/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cf89519407419471e403cbe45ad5f682/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5bca8f1f27a895dc397b918e2341ca9e/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6d74ac2ee5587016c2a5ba37e19886e2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9ef3d046f05ab10dae54541e01574e90/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da85e370804e322ae39f6162d960a650/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/8434ec049aa708721815219e84599740/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/12102c16720a6a0ff5f7db558d6c9fd7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/86a8b1b378dcfbafc0098068fa9d9c9a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/321bd3bbf0c315b15234ccb72e2d6c58/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9b4bf8e6e9939f042ed94ff79fec7fe4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6b333c52aa9bc0bc36d2cbb34c5744d5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9f9d4ee14a2ab04026ff8eaafac8d7e3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/1367f83db2cf64ee87315097837fb118/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0ea5e7f72d138ca5314afbeb7999f068/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5d4e223f9ef1c37f83f633ccedc3e28c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/69df784e4ac601808c831fe9b62fc1ce/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c3565001b217c565aab071033cb72062/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/00a2060f322c4b81ab198bb93ff13754/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e2e8d744d0c2dcdf1ade0e7ee74761b9/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/54bf15156c5e3b9e8044b51f1b5cc5bc/AndroidManifest.xml:15:1-23:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2ba9ef1d453e6ead291e17f3fab9da24/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/08836d25b7df5fbae403222e814a2a98/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6cd2016216d0da9fca14852ed62471ca/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/65acf79948bb01b2e4118b88f82a2bd5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ac3e8c6fb2e1149280d911815824e9ae/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/08e724e2dc319fe424c719e3e11b4df7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/87b7cf94c3b744ba2919386702b0cf66/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5cec0e8785a103dcfec6e7d03a62816a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/dd3a2d63a0eb181e219e079513e94d4b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/3f336a0bcd7fadb49608a454c86f4d82/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9beeaeaa613433d13656a1e364cf0f26/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e2fd278afb3811d3ddfa30affb746309/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c8b7e667a9bd2737755ed58f53c2be24/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b32a4a65af42cdac12b77a0c64bc77c2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b83a4d79a67114b672f733929939808f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/511f13dc96589facd8a05c3d679f809a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5551da455aeefa24f711132e783ec760/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cecf7291f1eb21df9caa62632d570b19/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/429fd4432d630122eb8b9453af6efc43/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/edf42f94f64dc668d10a175e918d3076/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d4f5edd06a0e5a28b269c68dd6887388/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6d4c19169084efaedbbfef9b1a52f3c9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2004653f20c9b38c32a834a57c66a1cd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/81f81f461ec52f7485bd1be0b327cac5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da7324e7282ed1c95ca6ecb393b5f6f3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0ef8483324806d1231f2a84f26700df8/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c8098afef30c0cd0ca967cf08dd07b92/AndroidManifest.xml:15:1-22:12
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:1-93:12
+	package
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:1-93:12
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:1-93:12
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [:react-native-firebase_auth] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_auth] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-67
+MERGED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:9:5-67
+MERGED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cd2a98e4d78b0e5ee71903526b859515/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cd2a98e4d78b0e5ee71903526b859515/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/93b4e1703e7d8048e69f8ae22f31290a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/93b4e1703e7d8048e69f8ae22f31290a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:8:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:10:5-68
+MERGED from [:react-native-firebase_auth] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_auth] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:9:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/93b4e1703e7d8048e69f8ae22f31290a/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/93b4e1703e7d8048e69f8ae22f31290a/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-community_netinfo] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-community_netinfo] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-firebase_auth] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_auth] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/93b4e1703e7d8048e69f8ae22f31290a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/93b4e1703e7d8048e69f8ae22f31290a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:12:5-78
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:14:5-78
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:14:22-75
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:16:5-18:27
+	tools:node
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:18:5-24
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:17:5-55
+application
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:25:5-92:19
+MERGED from [:react-native-razorpay] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-razorpay] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-26:19
+MERGED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-20:19
+MERGED from [:react-native-webview] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-43:19
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-43:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7cf1866045ab2b8d2885cad1c981cadd/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7cf1866045ab2b8d2885cad1c981cadd/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0b33c00a24c4598173c6d768d7a520ca/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0b33c00a24c4598173c6d768d7a520ca/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/a5d983a4c43510f05a42dd58383771c5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/a5d983a4c43510f05a42dd58383771c5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da920e85754b553bdc93cc792213a328/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da920e85754b553bdc93cc792213a328/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:22:5-43:19
+MERGED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:22:5-43:19
+MERGED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:11:5-30:19
+MERGED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:11:5-30:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7c110fc296c898059c7886bbe4158af8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7c110fc296c898059c7886bbe4158af8/AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/479296412a4e5cc52648499ab43d962d/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/479296412a4e5cc52648499ab43d962d/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/fad543d6821465ffb88136084401dfe1/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/fad543d6821465ffb88136084401dfe1/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cd2a98e4d78b0e5ee71903526b859515/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cd2a98e4d78b0e5ee71903526b859515/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/38bc41ab3292a67db69133d80cfe3864/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/38bc41ab3292a67db69133d80cfe3864/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/424cba814ee963ad9fbde1b2742314e7/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/424cba814ee963ad9fbde1b2742314e7/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/25c6415b3dfca4ed3487e88ace478a22/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/25c6415b3dfca4ed3487e88ace478a22/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:28:5-29:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/49b31adff39917cf40004be708ec529a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/49b31adff39917cf40004be708ec529a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c06eab56274611771ebcbdf0414efe4b/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c06eab56274611771ebcbdf0414efe4b/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/03bffa21527edbaf703fe7dd904e34c3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/03bffa21527edbaf703fe7dd904e34c3/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/204c950dfc9cbbaafc14d6ab0e0e5bd1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/204c950dfc9cbbaafc14d6ab0e0e5bd1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/043403675b7bb8ff898382a1255d7a17/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/043403675b7bb8ff898382a1255d7a17/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/602b09a5c5e1228df3664bfaaca6881c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/602b09a5c5e1228df3664bfaaca6881c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9ac32a45f79dcfe00a56ed178a6b8506/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9ac32a45f79dcfe00a56ed178a6b8506/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cf89519407419471e403cbe45ad5f682/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cf89519407419471e403cbe45ad5f682/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5bca8f1f27a895dc397b918e2341ca9e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5bca8f1f27a895dc397b918e2341ca9e/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c3565001b217c565aab071033cb72062/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c3565001b217c565aab071033cb72062/AndroidManifest.xml:24:5-89
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:25:5-39:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2ba9ef1d453e6ead291e17f3fab9da24/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2ba9ef1d453e6ead291e17f3fab9da24/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6cd2016216d0da9fca14852ed62471ca/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6cd2016216d0da9fca14852ed62471ca/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b83a4d79a67114b672f733929939808f/AndroidManifest.xml:7:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b83a4d79a67114b672f733929939808f/AndroidManifest.xml:7:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da7324e7282ed1c95ca6ecb393b5f6f3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da7324e7282ed1c95ca6ecb393b5f6f3/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c3565001b217c565aab071033cb72062/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:29:9-41
+	tools:ignore
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:32:9-48
+	android:roundIcon
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:30:9-54
+	android:icon
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:28:9-43
+	android:allowBackup
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:27:9-36
+	android:theme
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:31:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:34:9-69
+	android:usesCleartextTraffic
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:33:9-44
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:26:9-40
+activity#com.artycrafts.MainActivity
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:36:9-52:20
+	android:label
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:40:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:41:13-55
+	android:configChanges
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:38:13-83
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:37:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:42:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:43:17-69
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:43:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:44:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:artycraft
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:46:13-51:29
+action#android.intent.action.VIEW
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:48:17-76
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:48:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:49:27-75
+data
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:50:17-52
+	android:scheme
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:50:23-49
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:53:9-86
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:53:19-83
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:54:5-56:58
+	android:resource
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:56:13-55
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:55:13-83
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:57:9-60:15
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:9-42:47
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:40:9-42:47
+	android:resource
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:59:13-44
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:58:13-84
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationRegistrationService
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:64:9-119
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:64:18-116
+service#com.dieam.reactnativepushnotification.modules.RNPushNotificationListenerService
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:66:9-72:19
+	android:exported
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:67:13-107
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:69:13-71:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:70:17-78
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:70:25-75
+meta-data#com.dieam.reactnativepushnotification.notification_channel_name
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:74:9-76:42
+	android:value
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:76:13-39
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:75:13-91
+meta-data#com.dieam.reactnativepushnotification.notification_channel_description
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:77:9-79:78
+	android:value
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:79:13-75
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:78:13-98
+meta-data#com.dieam.reactnativepushnotification.notification_color
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:80:9-82:47
+	android:resource
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:82:13-44
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:81:13-84
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationPublisher
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:84:9-110
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:84:19-107
+receiver#com.dieam.reactnativepushnotification.modules.RNPushNotificationBootEventReceiver
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:85:9-89:19
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:85:19-115
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:86:12-88:28
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:87:16-78
+	android:name
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:87:24-75
+uses-sdk
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+MERGED from [hermes-release.aar] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/58644ea479304475ecf4d8656418cf39/AndroidManifest.xml:5:5-44
+MERGED from [hermes-release.aar] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/58644ea479304475ecf4d8656418cf39/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-push-notification] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-push-notification] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-push-notification/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-razorpay] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-razorpay] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-location-enabler] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-android-location-enabler] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-android-location-enabler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_art] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/art/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_art] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/art/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/geolocation/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_auth] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_auth] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/auth/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_app] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-i18n/android/build/intermediates/library_manifest/release/AndroidManifest.xml:4:5-6:41
+MERGED from [:react-native-i18n] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-i18n/android/build/intermediates/library_manifest/release/AndroidManifest.xml:4:5-6:41
+MERGED from [:react-native-reanimated] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-video/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7cf1866045ab2b8d2885cad1c981cadd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7cf1866045ab2b8d2885cad1c981cadd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c567138dc6f703dc6a66fc177352813/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.2-native] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c567138dc6f703dc6a66fc177352813/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0b33c00a24c4598173c6d768d7a520ca/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0b33c00a24c4598173c6d768d7a520ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d96ad40e770ceef13c67344856fcde50/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d96ad40e770ceef13c67344856fcde50/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b2d06933f630a55c3195eda9c66463df/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b2d06933f630a55c3195eda9c66463df/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-core:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/a5d983a4c43510f05a42dd58383771c5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/a5d983a4c43510f05a42dd58383771c5/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/f2653e4efff8584188ec18592c686e84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/f2653e4efff8584188ec18592c686e84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ca82e2204c79863a550965d0d4db46a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ca82e2204c79863a550965d0d4db46a1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/8cbdd19088d5272c1362d33bdcd8a090/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/8cbdd19088d5272c1362d33bdcd8a090/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-analytics:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da920e85754b553bdc93cc792213a328/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da920e85754b553bdc93cc792213a328/AndroidManifest.xml:5:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:20:5-44
+MERGED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7c110fc296c898059c7886bbe4158af8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7c110fc296c898059c7886bbe4158af8/AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/479296412a4e5cc52648499ab43d962d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/479296412a4e5cc52648499ab43d962d/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/fad543d6821465ffb88136084401dfe1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/fad543d6821465ffb88136084401dfe1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cd2a98e4d78b0e5ee71903526b859515/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cd2a98e4d78b0e5ee71903526b859515/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/38bc41ab3292a67db69133d80cfe3864/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/38bc41ab3292a67db69133d80cfe3864/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/424cba814ee963ad9fbde1b2742314e7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/424cba814ee963ad9fbde1b2742314e7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/25c6415b3dfca4ed3487e88ace478a22/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/25c6415b3dfca4ed3487e88ace478a22/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/49b31adff39917cf40004be708ec529a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/49b31adff39917cf40004be708ec529a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c24e504aedf3d37f1cc4e0fbdf5e02e0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c24e504aedf3d37f1cc4e0fbdf5e02e0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c06eab56274611771ebcbdf0414efe4b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c06eab56274611771ebcbdf0414efe4b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/03bffa21527edbaf703fe7dd904e34c3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/03bffa21527edbaf703fe7dd904e34c3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/204c950dfc9cbbaafc14d6ab0e0e5bd1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/204c950dfc9cbbaafc14d6ab0e0e5bd1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/043403675b7bb8ff898382a1255d7a17/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/043403675b7bb8ff898382a1255d7a17/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/602b09a5c5e1228df3664bfaaca6881c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/602b09a5c5e1228df3664bfaaca6881c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/93b4e1703e7d8048e69f8ae22f31290a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/93b4e1703e7d8048e69f8ae22f31290a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9ac32a45f79dcfe00a56ed178a6b8506/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9ac32a45f79dcfe00a56ed178a6b8506/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cf89519407419471e403cbe45ad5f682/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cf89519407419471e403cbe45ad5f682/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5bca8f1f27a895dc397b918e2341ca9e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5bca8f1f27a895dc397b918e2341ca9e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6d74ac2ee5587016c2a5ba37e19886e2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6d74ac2ee5587016c2a5ba37e19886e2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9ef3d046f05ab10dae54541e01574e90/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9ef3d046f05ab10dae54541e01574e90/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da85e370804e322ae39f6162d960a650/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da85e370804e322ae39f6162d960a650/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/8434ec049aa708721815219e84599740/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/8434ec049aa708721815219e84599740/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/12102c16720a6a0ff5f7db558d6c9fd7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/12102c16720a6a0ff5f7db558d6c9fd7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/86a8b1b378dcfbafc0098068fa9d9c9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/86a8b1b378dcfbafc0098068fa9d9c9a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/321bd3bbf0c315b15234ccb72e2d6c58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/321bd3bbf0c315b15234ccb72e2d6c58/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9b4bf8e6e9939f042ed94ff79fec7fe4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9b4bf8e6e9939f042ed94ff79fec7fe4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6b333c52aa9bc0bc36d2cbb34c5744d5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6b333c52aa9bc0bc36d2cbb34c5744d5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9f9d4ee14a2ab04026ff8eaafac8d7e3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9f9d4ee14a2ab04026ff8eaafac8d7e3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/1367f83db2cf64ee87315097837fb118/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/1367f83db2cf64ee87315097837fb118/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0ea5e7f72d138ca5314afbeb7999f068/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0ea5e7f72d138ca5314afbeb7999f068/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5d4e223f9ef1c37f83f633ccedc3e28c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5d4e223f9ef1c37f83f633ccedc3e28c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/69df784e4ac601808c831fe9b62fc1ce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/69df784e4ac601808c831fe9b62fc1ce/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c3565001b217c565aab071033cb72062/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c3565001b217c565aab071033cb72062/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/00a2060f322c4b81ab198bb93ff13754/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/00a2060f322c4b81ab198bb93ff13754/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e2e8d744d0c2dcdf1ade0e7ee74761b9/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e2e8d744d0c2dcdf1ade0e7ee74761b9/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/54bf15156c5e3b9e8044b51f1b5cc5bc/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/54bf15156c5e3b9e8044b51f1b5cc5bc/AndroidManifest.xml:19:5-21:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2ba9ef1d453e6ead291e17f3fab9da24/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2ba9ef1d453e6ead291e17f3fab9da24/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/08836d25b7df5fbae403222e814a2a98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/08836d25b7df5fbae403222e814a2a98/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6cd2016216d0da9fca14852ed62471ca/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6cd2016216d0da9fca14852ed62471ca/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/65acf79948bb01b2e4118b88f82a2bd5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/65acf79948bb01b2e4118b88f82a2bd5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ac3e8c6fb2e1149280d911815824e9ae/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ac3e8c6fb2e1149280d911815824e9ae/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/08e724e2dc319fe424c719e3e11b4df7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/08e724e2dc319fe424c719e3e11b4df7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/87b7cf94c3b744ba2919386702b0cf66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/87b7cf94c3b744ba2919386702b0cf66/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5cec0e8785a103dcfec6e7d03a62816a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5cec0e8785a103dcfec6e7d03a62816a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/dd3a2d63a0eb181e219e079513e94d4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/dd3a2d63a0eb181e219e079513e94d4b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/3f336a0bcd7fadb49608a454c86f4d82/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/3f336a0bcd7fadb49608a454c86f4d82/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9beeaeaa613433d13656a1e364cf0f26/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/9beeaeaa613433d13656a1e364cf0f26/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e2fd278afb3811d3ddfa30affb746309/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e2fd278afb3811d3ddfa30affb746309/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c8b7e667a9bd2737755ed58f53c2be24/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c8b7e667a9bd2737755ed58f53c2be24/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b32a4a65af42cdac12b77a0c64bc77c2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b32a4a65af42cdac12b77a0c64bc77c2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/511f13dc96589facd8a05c3d679f809a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/511f13dc96589facd8a05c3d679f809a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5551da455aeefa24f711132e783ec760/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5551da455aeefa24f711132e783ec760/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cecf7291f1eb21df9caa62632d570b19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cecf7291f1eb21df9caa62632d570b19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/429fd4432d630122eb8b9453af6efc43/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/429fd4432d630122eb8b9453af6efc43/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/edf42f94f64dc668d10a175e918d3076/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/edf42f94f64dc668d10a175e918d3076/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d4f5edd06a0e5a28b269c68dd6887388/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d4f5edd06a0e5a28b269c68dd6887388/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6d4c19169084efaedbbfef9b1a52f3c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/6d4c19169084efaedbbfef9b1a52f3c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2004653f20c9b38c32a834a57c66a1cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2004653f20c9b38c32a834a57c66a1cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/81f81f461ec52f7485bd1be0b327cac5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/81f81f461ec52f7485bd1be0b327cac5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da7324e7282ed1c95ca6ecb393b5f6f3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/da7324e7282ed1c95ca6ecb393b5f6f3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0ef8483324806d1231f2a84f26700df8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0ef8483324806d1231f2a84f26700df8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c8098afef30c0cd0ca967cf08dd07b92/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/c8098afef30c0cd0ca967cf08dd07b92/AndroidManifest.xml:18:5-20:41
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml
+activity#com.razorpay.CheckoutActivity
+ADDED from [:react-native-razorpay] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-14:86
+MERGED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:18:9-29:20
+MERGED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:18:9-29:20
+	android:configChanges
+		ADDED from [:react-native-razorpay] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:21:13-49
+	android:name
+		ADDED from [:react-native-razorpay] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-razorpay/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-57
+provider#androidx.core.content.FileProvider
+ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:9-21:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-20:58
+	android:resource
+		ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:17-55
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:9-25:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-image-crop-picker/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-60
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-19:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-18:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:17-79
+	android:name
+		ADDED from [:react-native-device-info] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:25-76
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-community_netinfo] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingHeadlessService
+ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:9-111
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:18-108
+service#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingService
+ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:9-23:19
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-95
+receiver#io.invertase.firebase.messaging.ReactNativeFirebaseMessagingReceiver
+ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:28:13-73
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:13-96
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:29:13-31:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:17-81
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:30:25-78
+meta-data#firebase_messaging_auto_init_enabled
+ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:35:13-64
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-39:32
+	android:value
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:39:13-29
+	android:name
+		ADDED from [:react-native-firebase_messaging] /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/node_modules/@react-native-firebase/messaging/android/build/intermediates/library_manifest/release/AndroidManifest.xml:38:13-89
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/82e8122c6044a1e4eb399f0566f5fa72/AndroidManifest.xml:50:22-86
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:28:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:31:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:30:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:36:9-42:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/38bc41ab3292a67db69133d80cfe3864/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/38bc41ab3292a67db69133d80cfe3864/AndroidManifest.xml:25:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:14:9-20:19
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:38:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:37:13-84
+meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
+ADDED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:39:13-41:85
+	android:value
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:41:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/eab854398ebbe28be9f375c8f4f509a4/AndroidManifest.xml:40:17-119
+receiver#com.razorpay.RzpTokenReceiver
+ADDED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:12:9-16:20
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:12:19-63
+intent-filter#action:name:rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:13:13-15:29
+action#rzp.device_token.share
+ADDED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:14:17-65
+	android:name
+		ADDED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:14:25-62
+intent-filter#action:name:android.intent.action.MAIN+data:host:rzp.io+data:scheme:io.rzp
+ADDED from [com.razorpay:checkout:1.5.12] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/654efd25566772c06c15a35ec72dd5d1/AndroidManifest.xml:22:13-28:29
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/479296412a4e5cc52648499ab43d962d/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/479296412a4e5cc52648499ab43d962d/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/479296412a4e5cc52648499ab43d962d/AndroidManifest.xml:12:13-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cd2a98e4d78b0e5ee71903526b859515/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:26:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:11:5-82
+MERGED from [com.google.android.gms:play-services-cloud-messaging:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/ce88c44e1ef10faa2e9c433e697b70a4/AndroidManifest.xml:11:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:16.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/cd2a98e4d78b0e5ee71903526b859515/AndroidManifest.xml:23:22-79
+meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
+ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/38bc41ab3292a67db69133d80cfe3864/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/38bc41ab3292a67db69133d80cfe3864/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-datatransport:17.0.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/38bc41ab3292a67db69133d80cfe3864/AndroidManifest.xml:29:17-115
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/2e16a74fe3022f6e3b0c06a0311abad9/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/887d9cec050395926a657985d6c87de2/AndroidManifest.xml:38:13-78
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:16.3.3] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/0c42da1f5a1a2afa3dbfc37ef0b60ede/AndroidManifest.xml:18:17-127
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e9c45af2ac506aa1e411d09f4a7d093f/AndroidManifest.xml:37:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/273fc8eb474ac49ba0efe13b7a0872a0/AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/e27258b161e7b4c0c3b5cd0a61647341/AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.1.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b83a4d79a67114b672f733929939808f/AndroidManifest.xml:5:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.1.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/b83a4d79a67114b672f733929939808f/AndroidManifest.xml:5:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.4.1] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/676d56754df885606cb6d1852f453870/AndroidManifest.xml:40:13-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/03bffa21527edbaf703fe7dd904e34c3/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/03bffa21527edbaf703fe7dd904e34c3/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/03bffa21527edbaf703fe7dd904e34c3/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/03bffa21527edbaf703fe7dd904e34c3/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5bca8f1f27a895dc397b918e2341ca9e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5bca8f1f27a895dc397b918e2341ca9e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/5bca8f1f27a895dc397b918e2341ca9e/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/7d3cadf82016329008d5b3b4f1b66246/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.0] /Users/brsoftech4/.gradle/caches/transforms-2/files-2.1/d1a3e197c500cc3480870e598c23486d/AndroidManifest.xml:33:13-132
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/brsoftech4/Desktop/Keshav Workspace/ecommerce-rn/android/app/src/main/AndroidManifest.xml:1:1-93:12 reason: com.android.installreferrer requested WRITE_EXTERNAL_STORAGE
